@@ -1,4 +1,7 @@
 # Oak-GraphQL
+
+**This is a fork of https://github.com/aaronwlee/oak_graphql/ . Using original repository is advised as far as it is maintained.**
+
 [![nest badge](https://nest.land/badge.svg)](https://nest.land/package/oak-graphql)
 
 A simple graphql middleware for oak deno framework.
